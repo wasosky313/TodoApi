@@ -11,4 +11,11 @@ ASP.NET core basic curl web project
 ## Add packages
 `dotnet add package Microsoft.EntityFrameworkCore.InMemory`
 
+## trust dev-certs
+`dotnet dev-certs https --trust`
+
+## Run project in https protocol
+`dotnet run --launch-profile https`
+
+
 
