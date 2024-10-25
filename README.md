@@ -16,6 +16,3 @@ ASP.NET core basic curl web project
 
 ## Run project in https protocol
 `dotnet run --launch-profile https`
-
-
-
